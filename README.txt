@@ -4,7 +4,7 @@ Context:
 
 STPM33 is an ASSP(Application Specific Standard Product) designed for high accuracy measurement of power and energy in power systems. STPM33 is equipped with 1 voltage entry (for phase) and 2 current entries (for phase and neutral)
 (ex: VIN1: Voltage Input Neutral on phase 1, VIP1: Voltage Input Phase on phase 1).
-For measurement of primary voltage channel i.e. phase-neutral line votlage, voltage divider circuitry is used. 
+For measurement of primary voltage channel i.e. phase-neutral votlage, voltage divider circuitry is used. 
 For measurement of primary current channel i.e. line current, shunt resistance is used. 
 For measurement of secondary current channel i.e. neutral current, Current Transformer is used. 
 
